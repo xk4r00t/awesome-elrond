@@ -8,11 +8,11 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 ## ¤ Support this awesome project
 
-- [Awesome elrond](http://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7) **eGLD**: `erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7`
+- [Awesome elrond](https://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7) **eGLD**: `erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7`
 
 ## ¤ Apps
 
-- [Maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
+- [Maiar](https://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
 
 ## ¤ Bridges
 
@@ -42,7 +42,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 ## ¤ Tools
 
-- [elrond qrcode generator](http://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7) — Simple QR Code image generator with your elrond address
+- [Elrond QR code generator](https://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7) — QR Code image generator with your Elrond address
 - [fluxtracker](https://fluxtracker.fr/) — Tell when you should restake your eGLD token
 - [r3d4](https://r3d4.fr/elrond/testnet/index.php) — r3d4 is an utility to deliver faucets xEgld for the Testnet and Devnet
 
@@ -51,7 +51,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 Here's a list of elrond wallet for each env :
 
 ### Apps
-- [Maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
+- [Maiar](https://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
 
 ### Extensions
 - [Maiar DeFi Wallet](https://chrome.google.com/webstore/detail/maiar-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) — An Elrond Wallet web extension
