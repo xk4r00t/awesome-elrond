@@ -1,3 +1,7 @@
+<div align="center">
+	<img width="180" height="180" src="media/elrond-egld-logo.png" alt="Elrond">
+</div>
+
 # ¤ Awesome Elrond Crypto Currency tools and awesome links
 
 Awesome list about [elrond](https://elrond.com/) project.
