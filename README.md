@@ -12,7 +12,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 ## ¤ Apps
 
-- [maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
+- [Maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
 
 ## ¤ Bridges
 
@@ -50,7 +50,13 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 Here's a list of elrond wallet for each env :
 
-- [maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
+### Apps
+- [Maiar](http://get.maiar.com/brcoqsch41) — Digital wallet and global payments app
+
+### Extensions
+- [Maiar DeFi Wallet](https://chrome.google.com/webstore/detail/maiar-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) — An Elrond Wallet web extension
+
+### Web
 - **main**: https://wallet.elrond.com/
 - **test**: https://testnet-wallet.elrond.com/
 - **dev**: https://devnet-wallet.elrond.com/
