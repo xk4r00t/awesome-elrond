@@ -53,7 +53,11 @@ Here's a list of elrond wallet for each env :
 
 ## Youtube
 
-Here is youtube channel which talk about elrond network news at least once a week :
+Here is youtube channels which talk about elrond network news at least once a week :
 
+### English
+- [Elrond Network](https://www.youtube.com/channel/UCRLKQHcjuWW_-JOZ-DqQTXw)
+
+### French
 - [Hasheur](https://www.youtube.com/c/Hasheur)
 - [Tikapo](https://www.youtube.com/c/Tikapo)
