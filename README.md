@@ -40,6 +40,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 - [elrond qrcode generator](http://qrcodegen.eu/?text=erd17l3wrtqjf8jvjalulfmprqyutkryw892mnc97gnfyd4pyklc0uzqx5rrp7) — Simple QR Code image generator with your elrond address
 - [fluxtracker](https://fluxtracker.fr/) — Tell when you should restake your eGLD token
+- [r3d4](https://r3d4.fr/elrond/testnet/index.php) — r3d4 is an utility to deliver faucets xEgld for the Testnet and Devnet
 
 ## ¤ Wallets
 
