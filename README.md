@@ -23,6 +23,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 - **docs**: https://docs.elrond.com/
 - **github**: https://github.com/ElrondNetwork
 - **telegram group**: https://t.me/ElrondDevelopers
+- **wiki**: https://en.elrondwiki.com/
 
 ## ¤ Exchanges
 
@@ -39,6 +40,14 @@ Awesome list about [elrond](https://elrond.com/) project.
 ## ¤ Growth
 
 - **growth**: https://growth.elrond.com/
+
+## ¤ Launchpad
+
+- **launchpad**: https://maiarlaunchpad.com/
+
+## ¤ NFT
+
+- [E•MOON](https://emoon.space/) — NFT marketplace
 
 ## ¤ Tools
 
@@ -61,7 +70,7 @@ Here's a list of elrond wallet for each env :
 - **test**: https://testnet-wallet.elrond.com/
 - **dev**: https://devnet-wallet.elrond.com/
 
-## Youtube
+## ¤ Youtube
 
 Here is youtube channels which talk about elrond network news at least once a week :
 
