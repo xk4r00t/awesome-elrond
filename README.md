@@ -43,7 +43,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 ## ¤ Launchpad
 
-- **launchpad**: https://maiarlaunchpad.com/
+- [Maiar Launchpad](https://maiarlaunchpad.com/) — The strategic launchpad for projects with a high chance of making a lasting impact on the world using Elrond
 
 ## ¤ NFT
 
