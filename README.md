@@ -27,15 +27,15 @@ Awesome list about [elrond](https://elrond.com/) project.
 
 ## ¤ Exchanges
 
+- **dev**: https://devnet.maiar.exchange/
 - **main**: https://maiar.exchange/
 - **test**: https://testnet.maiar.exchange/
-- **dev**: https://devnet.maiar.exchange/
 
 ## ¤ Explorers
 
+- **dev**: https://devnet-explorer.elrond.com/
 - **main**: https://explorer.elrond.com/
 - **test**: https://testnet-explorer.elrond.com/
-- **dev**: https://devnet-explorer.elrond.com/
 
 ## ¤ Growth
 
@@ -48,6 +48,7 @@ Awesome list about [elrond](https://elrond.com/) project.
 ## ¤ NFT
 
 - [E•MOON](https://emoon.space/) — NFT marketplace
+- [erdNFT tools](https://www.erdnft.com/) — This is an unofficial tool that allows NFT collection creation, minting and transfer for the Elrond blockchain.
 
 ## ¤ Tools
 
@@ -66,9 +67,9 @@ Here's a list of elrond wallet for each env :
 - [Maiar DeFi Wallet](https://chrome.google.com/webstore/detail/maiar-defi-wallet/dngmlblcodfobpdpecaadgfbcggfjfnm) — An Elrond Wallet web extension
 
 ### Web
+- **dev**: https://devnet-wallet.elrond.com/
 - **main**: https://wallet.elrond.com/
 - **test**: https://testnet-wallet.elrond.com/
-- **dev**: https://devnet-wallet.elrond.com/
 
 ## ¤ Youtube
 
