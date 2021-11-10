@@ -28,13 +28,13 @@ Awesome list about [elrond](https://elrond.com/) project.
 ## ¤ Exchanges
 
 - **dev**: https://devnet.maiar.exchange/
-- [Elrond Scan](https://elrondscan.com/) — Unofficial Elrond blockchain explorer built by Staking Agency Team
 - **main**: https://maiar.exchange/
 - **test**: https://testnet.maiar.exchange/
 
 ## ¤ Explorers
 
 - **dev**: https://devnet-explorer.elrond.com/
+- [Elrond Scan](https://elrondscan.com/) — Unofficial Elrond blockchain explorer built by Staking Agency Team
 - **main**: https://explorer.elrond.com/
 - **test**: https://testnet-explorer.elrond.com/
 
