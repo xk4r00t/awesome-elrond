@@ -1,3 +1,8 @@
+For dev resources there is this repo :
+https://github.com/ElrondDevGuild/awesome-elrond-dev-resources
+
+----
+
 <div align="center">
 	<img width="180" height="180" src="media/elrond-egld-logo.png" alt="Elrond">
 </div>
